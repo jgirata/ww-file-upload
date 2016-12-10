@@ -1,0 +1,13 @@
+{
+  "name": "ww-file-upload",
+  "version": "0.0.1",
+  "description": "Sample code for uploading a file to WW",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "request": "^2.75.0"
+  }
+}
